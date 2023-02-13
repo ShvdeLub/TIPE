@@ -8,3 +8,8 @@ Sujet d'étude - drone - :
 - schéma électronique de récupération des données de mouvement
 - méthode de transfert des données depuis les capteurs jusqu'au système de traitement
 - traitement des données et génération des intructions de direction du drone
+ 
+ I) Prise en main du drone DJI RYZE Tello
+
+ - commande du drone via ordinateur, instructions de déplacement en python
+    `drone_connenct.py`
