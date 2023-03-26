@@ -1,8 +1,18 @@
 # TIPE
-Projet TIPE 2022-2023
+Projet TIPE 2023-2024
 
-But : créer une combinaison pour l'utilisateur qui analyse ses mouvements et les utiliser dans une expérience de jeu ou de pilotage(drone) immersive
+// Pilotage d'un drone par l'interprétation des mouvements du corps hummain //
 
+But : Réaliser une expérience d'immersion dans un monde virtuel ou réel inatteignable (sans contact avec la terre ferme), le cas traité ici sera une expérience de pilotage de quadricoptère.
+
+Positionnement thématique : 
+Informatique : Informatique Pratique
+Sciences industrielles : Electronique - Traitement du Signal
+
+Mots-clés : 
+- Pilotage - Drones - Immersion - Mouvements humains - 
+
+Explication
 Sujet d'étude - drone - : 
 - conception de l'armature de la combinaison en 3d
 - schéma électronique de récupération des données de mouvement
@@ -12,4 +22,6 @@ Sujet d'étude - drone - :
  I) Prise en main du drone DJI RYZE Tello
 
  - commande du drone via ordinateur, instructions de déplacement en python
-    `drone_connenct.py`
+    `drone_connect.py`
+
+
