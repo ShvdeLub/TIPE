@@ -23,7 +23,7 @@ Tâches :
  - Pilotage via un périphérique d'entrée type manette de jeu ou clavier
  - Mise en place de programme de vol automatisés (retour à l'endroit du décollage en autonomie - atterissage forcé - déclenchement de la vidéo)
 
- II) Prise en main des capteurs de mouvement (accéléromètres - gyroscopes)
+ II) Prise en main des capteurs de mouvement (accéléromètre PiicoDev 3-Axis Accelerometer LIS3DH // https://core-electronics.com.au/piicodev-3-axis-accelerometer-lis3dh.html)
 
  - Première analyse des données fournies par les capteurs
  - Test des capteurs sur un seul axe
@@ -39,4 +39,10 @@ Tâches :
  IV) Ajustements - réglages en fonction des résultats des essais
 
 
+Biblio : 
+ - Documentation module python Tello (drone) : https://djitellopy.readthedocs.io/en/latest/
+ - Documentation accéléromètre PiicoDev 3-Axis Accelerometer LIS3DH : 
+    * guide de premiers pas : https://core-electronics.com.au/guides/piicodev-three-axis-accelerometer-lis3dh-getting-started-guide/
+    * lien d'achat : https://core-electronics.com.au/piicodev-3-axis-accelerometer-lis3dh.html
+    * video explicative : https://www.youtube.com/watch?v=1wQNX1Q9gkc
 
